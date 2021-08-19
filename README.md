@@ -1,10 +1,14 @@
-# Getting Started with Create React App
+## Tesla Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's a simple REACT app clone from the current Tesla Website.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+To install the current package context
 
 ### `npm start`
 
