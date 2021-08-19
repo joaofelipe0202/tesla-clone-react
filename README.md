@@ -1,6 +1,6 @@
 ## Tesla Clone
 
-It's a simple REACT app clone from the current Tesla Website.
+It's a simple REACT app clone of the current Tesla Website.
 
 ## Available Scripts
 
